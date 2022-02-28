@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clear Head</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Change Language Button -->
+    <string name="changeLang">Change Language</string>
+
+    <!-- Main Activity Buttons -->
+    <string name="quotes">Quotes</string>
+    <string name="happytimes">Happy Times</string>
+    <string name="howareyoutoday">How are you today?</string>
+    <string name="listenrelaxboostserotonin">Listen Relax + Boost Serotonin</string>
+
+    <string name="Quote1">“You don’t have to be positive all the time. It’s perfectly okay to feel sad, angry, annoyed, frustrated, scared and anxious. Having feelings doesn’t make you a negative person. It makes you human.” — Lori Deschene</string>
+    <string name="Quote2">"If you are broken, you do not have to stay broken.”</string>
+    <string name="Quote3">“There is a crack in everything, that’s how the light gets in” ― Leonard Cohen</string>
+    <string name="Quote4">“Not until we are lost do we begin to understand ourselves” ― Henry David Thoreau</string>
+    <string name="Quote5">“There is hope, even when your brain tells you there isn’t.” — John Green</string>
+    <string name="Quote6">“Promise me you’ll always remember you’re braver than you believe, and stronger than you seem, and smarter than you think.” — Christopher Robin from Winnie the Pooh</string>
+    <string name="Quote7">“If you’re going through hell, keep going.” — Winston Churchill</string>
+    <string name="Quote8">“Change what you can, manage what you can’t.” — Raymond McCauley</string>
+    <string name="Quote9">“Mental health affects every aspect of your life. It’s not just this neat little issue you can put into a box.” — Shannon Purser</string>
+    <string name="Quote10">“Your present circumstances don’t determine where you can go; they merely determine where you start.” — Nido Qubein</string>
+    <string name="Quote11">“You don’t have to control your thoughts. You just have to stop letting them control you.”  — Dan Millman</string>
+    <string name="Quote12">“The best way out is always through.” — Robert Frost</string>
+    <string name="Quote13">“Don’t believe everything you think.”  — Unknown</string>
+    <string name="Quote14">“It is during our darkest moments that we must focus to see the light.”</string>
+    <string name="Quote15">“Just when the caterpillar thought the world was ending, he turned into a butterfly.”— Anonymous proverb</string>
+    <string name="Quote16">“If you can’t fly, run. If you can’t run, walk. If you can’t walk, crawl, but by all means, keep moving.” —Martin Luther King, Jr.</string>
+    <string name="Quote17">“I can’t change the direction of the wind, but I can adjust my sails to always reach my destination.” — Jimmy Dean</string>
+    <string name="Quote18">“Sometimes you climb out of bed in the morning and you think, I’m not going to make it, but you laugh inside — remembering all the times you’ve felt that way.” — Charles Bukowski </string>
+    <string name="Quote19">“Your illness is not your identity. Your chemistry is not your character.” — Pastor Rick Warren</string>
+    <string name="Quote20">“It is not the bruises on the body that hurt. It is the wounds of the heart and the scars on the mind.” — Aisha Mirza</string>
+    <string name="nextquote">Next Quote</string>
+    <string name="good">Good</string>
+    <string name="bad">Bad</string>
+    <string name="depressed">Depressed</string>
+    <string name="Angry">Angry</string>
+    <string name="Suicidal">Suicidal</string>
+    <string name="Sad">Sad</string>
+    <string name="Ifyoudofeeldownpleasecontact">If you do Feel Down Please Contact</string>
+    <string name="Trytotakedeepbreaths">Try to take deep breaths</string>
+    <string name="Playsomehappymusic">Play some happy music</string>
+    <string name="Getsomefreshairawayfrompeople">Get some fresh air away from people</string>
+    <string name="Takeabreakanddosomethingyoulove">Take a break and do something you love</string>
+    <string name="Tellsomeoneclosetoyouandtalk">Tell someone close to you and talk</string>
+    <string name="ContactPietaHouseifNecessary">Contact Pieta House if Necessary</string>
+    <string name="Thinkofthereasonswhyyouexist">Think of the reasons why you exist</string>
+    <string name="Thinkofwhatyoulovethemost">Think of what you love the most</string>
+    <string name="Dontbeafraidtocryletitout">Dont be afraid to cry let it out</string>
+    <string name="Contactyourlocalgpifneeded">Contact your local gp if needed</string>
+    <string name="Playhappymusicorthinkofhappymemories">Play happy music or think of happy memories</string>
+    <string name="Talktosomeonebeforeyoudecideanythingrash">Talk to someone before you decide anything rash</string>
+    <string name="Weareallonthisearthforareasonnotbychance">We are all on this earth for a reason not by chance</string>
+    <string name="Youdomatter">You do matter</string>
+    <string name="ContactPietaHouseImmediately">Contact Pieta House Immediately</string>
+    <string name="PietaHouse">Pieta House</string>
+    <string name="Quoteswillappearhere">Quotes will appear here</string>
+    <string name="SongTitle">Song Title</string>
+    <string name="HappySong">Happy Song</string>
+    <string name="Upbeat">Upbeat</string>
+    <string name="Inthemood">In the mood</string>
+    <string name="Brightenup">Brighten up</string>
+    <string name="Motivation">Motivation</string>
+
+        <string name="enter_file_name">Enter File Name ...</string>
+        <string name="insert">Insert</string>
+        <string name="update">Update</string>
+        <string name="delete">Delete</string>
+        <string name="fetch">Fetch</string>
+        <string name="todo">TODO</string>
+
+    <string name="choosefile">Choose File</string>
+    <string name="upload">Upload</string>
+    <string name="enterfilename">Enter file name</string>
+
+
+</resources>

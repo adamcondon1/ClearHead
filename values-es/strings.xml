@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cabeza Clara</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Change Language Button -->
+    <string name="changeLang">Cambiar idioma</string>
+
+    <!--Main Activity Buttons-->
+    <string name="quotes">citas</string>
+    <string name="happytimes">tiempos felices</string>
+    <string name="howareyoutoday">Como estas hoy?</string>
+    <string name="listenrelaxboostserotonin">Escuche Relájese Y Participe</string>
+
+    <string name="Quote1">“No tienes que ser positivo todo el tiempo. Está perfectamente bien sentirse triste, enojado, molesto, frustrado, asustado y ansioso. Tener sentimientos no te convierte en una persona negativa. Te hace humano ". - Lori Deschene"</string>
+    <string name="Quote2">"Si está roto, no tiene por qué permanecer roto.”</string>
+    <string name="Quote3">“Hay una grieta en todo, así es como entra la luz” ― Leonard Cohen</string>
+    <string name="Quote4">“No hasta que estamos perdidos comenzamos a comprendernos a nosotros mismos.” ― Henry David Thoreau</string>
+    <string name="Quote5">“Hay esperanza, incluso cuando tu cerebro te dice que no.” — John Green</string>
+    <string name="Quote6">“Prométeme que siempre recordarás que eres más valiente de lo que crees, más fuerte de lo que pareces y más inteligente de lo que crees.” — Christopher Robin from Winnie the Pooh</string>
+    <string name="Quote7">“Si vas pasando por una tormenta, sigue caminando.” — Winston Churchill</string>
+    <string name="Quote8">“Cambie lo que pueda, administre lo que no pueda.” — Raymond McCauley</string>
+    <string name="Quote9">“La salud mental afecta todos los aspectos de su vida. No es solo este pequeño problema que puedes poner en una caja.” — Shannon Purser</string>
+    <string name="Quote10">“Tus circunstancias actuales no determinan adónde puedes ir; simplemente determinan por dónde empiezas.” — Nido Qubein</string>
+    <string name="Quote11">“No tienes que controlar tus pensamientos. Solo tienes que dejar de dejar que te controlen.”  — Dan Millman</string>
+    <string name="Quote12">“La mejor salida es siempre a través.” — Robert Frost</string>
+    <string name="Quote13">“No creas todo lo que piensas.”  — Unknown</string>
+    <string name="Quote14">“Es durante nuestros momentos más oscuros que debemos enfocarnos para ver la luz..”</string>
+    <string name="Quote15">“Justo cuando la oruga pensó que el mundo se estaba acabando, se convirtió en una mariposa..”— Anonymous proverb</string>
+    <string name="Quote16">“Si no puedes volar, corre. Si no puede correr, camine. Si no puede caminar, gatee, pero por supuesto, siga moviéndose.” —Martin Luther King, Jr.</string>
+    <string name="Quote17">“No puedo cambiar la dirección del viento, pero puedo ajustar mis velas para llegar siempre a mi destino.” — Jimmy Dean</string>
+    <string name="Quote18">“A veces te levantas de la cama por la mañana y piensas: no voy a lograrlo, pero te ríes por dentro. — remembering all the times you’ve felt that way.” — Charles Bukowski </string>
+    <string name="Quote19">“Tu enfermedad no es tu identidad. Tu química no es tu personaje.” — Pastor Rick Warren</string>
+    <string name="Quote20">“No son los moretones en el cuerpo lo que duele. Son las heridas del corazón y las cicatrices de la mente.” — Aisha Mirza</string>
+    <string name="nextquote">Proxima Cita</string>
+    <string name="good">Bien</string>
+    <string name="bad">No Bueno</string>
+    <string name="depressed">deprimido</string>
+    <string name="Angry">enojado</string>
+    <string name="Suicidal">suicida</string>
+    <string name="Sad">triste</string>
+    <string name="Ifyoudofeeldownpleasecontact">Si se siente deprimido, comuníquese con</string>
+    <string name="Trytotakedeepbreaths">Intenta respirar profundamente</string>
+    <string name="Playsomehappymusic">Pon música alegre</string>
+    <string name="Getsomefreshairawayfrompeople">Toma un poco de aire fresco lejos de las personas</string>
+    <string name="Takeabreakanddosomethingyoulove">¡Tómate un descanso y haz algo que te guste!</string>
+    <string name="Tellsomeoneclosetoyouandtalk">Dile a alguien cercano a ti y habla</string>
+    <string name="ContactPietaHouseifNecessary">Póngase en contacto con Pieta House si es necesario</string>
+    <string name="Thinkofthereasonswhyyouexist">Piensa en las razones por las que existes</string>
+    <string name="Thinkofwhatyoulovethemost">Piensa en lo que más amas</string>
+    <string name="Dontbeafraidtocryletitout">No tengas miedo de llorar déjalo salir</string>
+    <string name="Contactyourlocalgpifneeded">Póngase en contacto con su gp local si es necesario</string>
+    <string name="Playhappymusicorthinkofhappymemories">Pon música alegre o piensa en recuerdos felices</string>
+    <string name="Talktosomeonebeforeyoudecideanythingrash">Habla con alguien antes de decidir algo precipitado.</string>
+    <string name="Weareallonthisearthforareasonnotbychance">Todas estamos en esta tierra por una razón no casual</string>
+    <string name="Youdomatter">Tu importa</string>
+    <string name="ContactPietaHouseImmediately">Póngase en contacto con Pieta House inmediatamente</string>
+    <string name="PietaHouse">Casa de la Piedad</string>
+    <string name="Quoteswillappearhere">Las cotizaciones aparecerán aquí</string>
+    <string name="SongTitle">Título de la canción</string>
+    <string name="HappySong">cancion feliz</string>
+    <string name="Upbeat">Optimista</string>
+    <string name="Inthemood">de humor</string>
+    <string name="Brightenup">Animar</string>
+    <string name="Motivation">Motivación</string>
+
+    <string name="enter_file_name">Enter File Name ...</string>
+    <string name="insert">Insertar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="fetch">Obtener</string>
+    <string name="todo">Hacer</string>
+
+    <string name="choosefile">Elija el archivo</string>
+    <string name="upload">Subir</string>
+    <string name="enterfilename">ingrese el nombre del archivo</string>
+
+
+</resources>
